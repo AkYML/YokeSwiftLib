@@ -1,0 +1,6 @@
+framework module Yoke {
+    umbrella header "Yoke.h"
+
+    export *
+    module * { export * }
+}
